@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi 👋 I’m Mohammed Fahad  <br>A passionate Computer Science student exploring Web Development and problem-solving.  <br>I enjoy building projects, learning new technologies, and continuously improving my skills.  <br>Currently focusing on frontend development and modern web tools.<br>
+Hi 👋 I’m Mohammed Fahad  <br>
+A passionate Computer Science student exploring Web Development, Data Structures & Algorithms, and Cloud technologies.  <br>
+I enjoy building projects, problem-solving, and continuously improving my skills.  <br>
+Currently focusing on frontend development, DSA, and modern cloud tools.  <br>
+
 
 
 # 💻 Tech Stack:
